@@ -1,1 +1,1 @@
-# masomyadmin
+# masomy-admin
